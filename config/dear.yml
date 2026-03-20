@@ -1,0 +1,5 @@
+version: "1.0"
+mym:
+  name: token
+  enabled: true
+  config: mgk
